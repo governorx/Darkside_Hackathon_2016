@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Monopoly_Assistant</string>
+    <string name="hello">Hello World!</string>
+
 </resources>
